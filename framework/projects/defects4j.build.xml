@@ -216,7 +216,7 @@ project-specific build file ("project_id"/"project_id".build.xml) for the
             showoutput="false"
             fork="no"
 			exportKillMap="true"
-			resulFile="results.csv"
+			resultFile="results.csv"
 			exportCovMap="true"
 			sort="sort_methods"
             mutationAnalysis="true"
